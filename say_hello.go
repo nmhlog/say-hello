@@ -1,5 +1,5 @@
-package say-hello
+package say_hello
 
-func SayHello()string {
+func SayHello() string {
 	return "hello"
 }
